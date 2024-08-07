@@ -2,7 +2,7 @@
 
 Meu nome é Kemilly Amanda
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,4 @@ Meu nome é Kemilly Amanda
 - @brz.amanda
 
 
-![]([https://media1.tenor.com/m/sACmox-maawAAAAC/dylan-obrien-hot-actor.gif])
+![](https://media1.tenor.com/m/Boqt-c_1nhYAAAAd/jungkook-jk.gif)
